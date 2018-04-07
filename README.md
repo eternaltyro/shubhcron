@@ -1,4 +1,4 @@
-# shubhcron
+# shubhcron ( A record that such stupidity exists in the world! )
 
 Shubhcron is an auspicious cron runner. It is a drop-in replacement for your existing cron runners (cronie/anacron etc) and allows you to make sure that your jobs only run on auspicious timings.
 
